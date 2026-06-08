@@ -1,4 +1,4 @@
-#BURAK ŞAHİN TARAFINDAN KODLANDI
+#omer yuceer
 from a import *
 try:
     f=open("ogrenciler.txt","x",encoding="utf-8")
